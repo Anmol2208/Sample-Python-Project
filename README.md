@@ -1,2 +1,2 @@
 # Sample-Python-Project
-This is a demofile for python
+This is a demo file for python
